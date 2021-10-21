@@ -4,7 +4,7 @@
 
 **Contribuir**
 -
-#
+
 Si quieres contribuir a nustro proyecto, tienes que seguir los siguientes pasos
 
 1. Ve a nuestro proyecto en GitHub y realiza un <span style="color:blue">fork</span>!
@@ -14,7 +14,7 @@ Si quieres contribuir a nustro proyecto, tienes que seguir los siguientes pasos
 
 **Instalación**
 -
-#
+
 Necesitarás las siguientes herramientas para poder ejecutar el proyecto:
 - Node.js 6.5+
 - MySQL 8+
