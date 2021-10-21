@@ -25,7 +25,7 @@ Necesitarás las siguientes herramientas para poder ejecutar el proyecto:
 
 **Ejecutar el proyecto**
 -
-#
+
 Una vez instalados todos los programas necesarios, solo necesitas clonar nuestro repositorio:
 
 gh repo clone <repo>
@@ -35,7 +35,7 @@ npm start
 
 **Progreso**
 -
-#
+
 | Cargo | Encargad |
 | ------------- | ------------- |
 | Frontend  | Magnus Carisen  |
